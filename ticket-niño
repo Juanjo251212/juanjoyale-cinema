@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Entrada Niño - Juanjoyale Cinema</title>
+  <style>
+    body {
+      background-color: #111;
+      font-family: 'Arial', sans-serif;
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .ticket {
+      background: #222;
+      border-radius: 15px;
+      padding: 30px;
+      width: 400px;
+      box-shadow: 0 0 20px rgba(0,150,255,0.6);
+      border: 3px solid #00ccff;
+    }
+    h1 {
+      text-align: center;
+      color: #ffcc00;
+    }
+    .type {
+      text-align: center;
+      font-size: 1.2em;
+      color: #ccc;
+      margin-bottom: 15px;
+    }
+    .combo {
+      background: #333;
+      padding: 15px;
+      border-radius: 10px;
+      margin-top: 10px;
+    }
+    .barcode {
+      margin-top: 25px;
+      text-align: center;
+    }
+    .barcode img {
+      width: 80%;
+    }
+    .movie {
+      background: #000;
+      color: #fff;
+      margin-top: 15px;
+      padding: 10px;
+      text-align: center;
+      border-radius: 10px;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <div class="ticket">
+    <h1>Juanjoyale Cinema</h1>
+    <div class="type">🎟️ Entrada para Niño</div>
+    <div class="movie">Película: ___________________</div>
+    <div class="
+
